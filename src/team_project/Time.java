@@ -2,6 +2,7 @@ package team_project;
 
 import java.util.Vector;
 
+// ÀÀ½ÃÈ½¼ö : number of examinations 
 public class Time
 {
 	private int times;

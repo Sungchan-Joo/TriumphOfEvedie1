@@ -2,6 +2,7 @@ package team_project;
 
 import javax.swing.ImageIcon;
 
+// 시험문제 : examinations
 public class Quiz
 {
 	private int quizNum;	

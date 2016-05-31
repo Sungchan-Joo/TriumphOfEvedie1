@@ -68,7 +68,7 @@ public class MainForm extends JFrame implements ActionListener{
 		}
 		else
 		{
-			new QuizListForm();
+			new QuizListForm(this);
 		}
 	}
 	private void showFrame()

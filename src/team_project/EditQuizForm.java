@@ -7,7 +7,10 @@ public class EditQuizForm extends JDialog
 	
 	private QuizListForm owner;
 	
-	
+	public EditQuizForm() {
+		// 새로운 문제 추가용
+		// 파라미터 없는 생성자 
+	}
 	
 	public EditQuizForm(QuizListForm owner)
 	{

@@ -27,6 +27,7 @@ public class IncorrectForm extends JDialog
 
 	private void init()
 	{
+		
 		timeList = new JList(owner.getTimeList());
 		timeList.setCellRenderer(new IncorrectFormListCellRenderer());
 	}

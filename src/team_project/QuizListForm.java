@@ -63,7 +63,7 @@ public class QuizListForm extends JDialog
 				}
 				else if(src == btnEdit)
 				{
-					
+					new EditQuizForm();
 				}
 				else
 				{
